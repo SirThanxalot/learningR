@@ -1,7 +1,7 @@
 # learningR
 This repository isto be used for my **R language** learning sessions.
 
-What are you waiting for? Check out [here](https://github.com/SirThanxalot) my brand new [profile in Gitub!
+What are you waiting for? Check out [here](https://github.com/SirThanxalot) my brand new profile in Gitub!
 
 You'll be amazed by:
 * how empty it is
