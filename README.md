@@ -5,7 +5,7 @@ What are you waiting for? Check out [here](https://github.com/SirThanxalot) my b
 You'll be amazed by:
 * how empty it is
 * how full it isn't
-* and how it generally is as the previous two bullet points described it
+* and how it, generally, is exactly as the previous two bullet points described
 
 
 
