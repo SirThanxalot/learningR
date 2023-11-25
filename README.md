@@ -11,4 +11,4 @@ You'll be amazed by:
 
 
 > [!NOTE]
-> Changes I did include: this note, a link leading to my own profile in Github and that "R language" is in **bold** now
+> Changes I did include: this note, a link leading to my own profile in Github, the bullet points, and that "R language" is in **bold** now
